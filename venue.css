@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+Decol&display=swap');
+.menu-bar{
+    background-color: #1e2a78;
+    
+}
+.navbar-nav{
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+
+.august{
+    position: absolute;
+    top: 70px;
+    right: 33px;
+    color: rgb(128, 128, 238);
+}
+.venue{
+    height: 230px;
+    background-color: #a6fff2;
+
+}
+.venue-text{
+    color: #2b6b61;
+    text-align: center;
+    padding: 20px;
+}
+.sp-pra{
+    
+    
+    font-size: 25px;
+    text-align: center;
+    color: #837f7f;
+}
+.chicago-theatre{
+    width: 350px;
+    margin-left: 80px;
+}
+.chicago-theatre h3{
+    color:#4e9288 ;
+}
+.chicago-theatre h5{
+    color: rgb(168, 158, 158);
+}
+.chicago-theatre a{
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(168, 158, 158);
+}
+.chicago-theatre a:hover{
+    color: gray;
+}
+.venue-map{
+    width: 600px;
+    height: 300px;
+    
+}
+.footer{
+    background-color:#1e2a78 ;
+    height: 100px;
+    
+}
+.footer a{
+    text-decoration: none;
+    padding-left: 10px;
+    color: #fff;
+}

@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+Decol&display=swap');
+.menu-bar{
+    background-color: #1e2a78;
+    
+}
+.navbar-nav{
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.register{
+    background-color:#1e2a78 ;
+    height: 300px;
+}
+.blockquote h1{
+    color:#43dde6;
+}
+.blockquote p{
+    color: #fff;
+    font-size: 20px;
+}
+figure a{
+    margin-bottom: 20px;
+    border: 1px solid rgb(235, 226, 226);
+    padding: 15px;
+    width: 400px;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 10px;
+    line-height: 10px;
+    overflow: visible;
+    transition: 2s;
+}
+figure a:hover{
+    background-color: #0e153a;
+    border: 1px solid #0e153a;
+}
+.august{
+    position: absolute;
+    top: 60px;
+    right: 80px;
+    
+}
+
+.main img{
+    width: 350px;
+    height: 250px;
+    border-radius: 10px;
+    
+}
+.main p{
+    color: #868383;
+}
+.main h4{
+    color: #868383;
+}
+.footer{
+    background-color:#1e2a78 ;
+    height: 100px;
+    
+}
+.footer a{
+    text-decoration: none;
+    padding-left: 10px;
+    color: #fff;
+}
